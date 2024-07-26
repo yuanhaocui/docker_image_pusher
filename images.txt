@@ -1,1 +1,1 @@
-redis:7.4-rc-alpine
+apache/rocketmq:4.3.0
