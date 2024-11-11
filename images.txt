@@ -1,1 +1,1 @@
-styletang/rocketmq-console-ng:1.0.0
+fuhai/jpress:v5.1.0
